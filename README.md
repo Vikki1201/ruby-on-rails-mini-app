@@ -1,3 +1,4 @@
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# ruby-on-rails-mini-app
+4b88e513703dedde55f1d3c603fc8af72e2173ab
